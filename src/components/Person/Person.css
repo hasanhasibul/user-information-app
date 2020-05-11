@@ -1,0 +1,32 @@
+.person-container{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding: 30px;
+    margin: 0px 20px 0px 150px;
+}
+.image{
+    width: 300px;
+    float: left;
+}
+.image img{
+    width: 100%;
+    box-shadow: 7px 7px 4px grey;
+}
+.details{
+    margin-left:60px;
+    font-family:monospace;
+    font-size: 17px;
+    font-weight: 500px;
+    
+}
+.details h2{
+    color:lightsalmon;
+}
+
+.button{
+    background-color: lightsalmon;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}

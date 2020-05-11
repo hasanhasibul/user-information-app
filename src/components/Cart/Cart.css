@@ -1,0 +1,8 @@
+.homeCount h2{
+ color:lightsalmon;
+}
+.homeCount{
+ padding-left: 10px;
+ position: sticky;
+ top: 100px;
+}

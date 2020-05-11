@@ -1,0 +1,18 @@
+.header{
+    background-color:lightsalmon;
+    line-height: 60px;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+.header a{
+    text-decoration: none;
+    color:white;
+    margin-right: 10px;
+    padding: 20px;
+    font-size: 17px;
+}
+.header a:hover{
+    color: white;
+    background-color: gray;
+}

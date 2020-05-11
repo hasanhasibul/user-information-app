@@ -1,0 +1,8 @@
+.home{
+    display: flex;
+}
+.homeData{
+    width: 80%;
+    border-right: 1px solid grey;
+    margin-right: 5px;
+}
